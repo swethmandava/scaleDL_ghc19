@@ -4,7 +4,7 @@
 ## Introduction
 This repository provides the contents of a workshop given at Grace Hopper 2019.  These examples focus on scaling performance while keeping convergence consistent on a sample Deep Learning Model, [NCF](https://arxiv.org/abs/1708.05031) using a 1x V100 16G GPU.
 
-Refer to [Slides](https://github.com/swethmandava/scaleDL_ghc19/GHC-19.pdf) for a brief overview.
+Refer to [Slides](https://github.com/swethmandava/scaleDL_ghc19/blob/master/GHC-19.pdf) for a brief overview.
 
 ## Quick Start Guide
 
