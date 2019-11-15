@@ -2,7 +2,11 @@
 # DS717: Prototype to Production: How to Scale your Deep Learning Model
 
 ## Introduction
-This repository provides the contents of a workshop given at Grace Hopper 2019.  These examples focus on scaling performance while keeping convergence consistent on a sample Deep Learning Model, [NCF](https://arxiv.org/abs/1708.05031) using a 1x V100 16G GPU.
+This repository provides the contents of a workshop given at Grace Hopper 2019. 
+
+With increasingly complex Deep Learning models and datasets, AI practitioners are faced with escalating training times, and hence lower productivity. In this interactive hands-on workshop, we will scale a prototype to production quality in 60 minutes. Starting with a popular recommender system [NCF](https://arxiv.org/abs/1708.05031), we will explore techniques to drastically improve performance and reduce training time by about 20x. 
+
+These examples focus on scaling performance while keeping convergence consistent on a sample Deep Learning Model,using a 1x V100 16G GPU.
 
 Refer to [Slides](https://github.com/swethmandava/scaleDL_ghc19/blob/master/GHC-19.pdf) for a brief overview.
 
